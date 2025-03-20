@@ -1,4 +1,4 @@
-#Lab Assignment 3
+## Lab Assignment 3
 This project is a Node.js & Express.js application demonstrating basic API development, JSON data handling, and CRUD operations.
 It includes three JavaScript files: 
 one for displaying student names, 
